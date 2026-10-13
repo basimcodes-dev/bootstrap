@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.top-header {
+    background-color: #000;
+
+}
+
+.nav-item a {
+    color: #fff;
+}
+
+.nav-item .nav-link:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    color: #fff;
+}
+
+
+.navbar-toggler-icon {
+    filter: invert(1);
+}
+
+body {
+    background-color: #000;
+}

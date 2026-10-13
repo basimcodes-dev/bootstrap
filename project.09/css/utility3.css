@@ -1,0 +1,143 @@
+.button-1 {
+    background-color: #000;
+    color: #fff;
+    padding: 11px 10px;
+    border: 1px solid #fff;
+}
+
+.button-2 {
+    padding: 12px 13px;
+    background-color: #ED1C24;
+    border: none;
+    color: #fff
+}
+
+.circle {
+    color: #ED1C24;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.nav-item1 .nav-link1 {
+    color: #000;
+    text-decoration: none;
+}
+
+.text-content p {
+    color: #6C757D;
+}
+
+.text-content h5 {
+    color: #6C757D;
+    font-size: 18px;
+
+}
+
+.menu-items a {
+    text-decoration: none;
+    color: #6C757D;
+    line-height: 35px;
+
+}
+
+.footer-menu h5 {
+    font-size: 20px;
+    color: #fff;
+}
+
+.footer-menu p {
+    color: #6C757D;
+}
+
+.contact-heading {
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.nav-links1 {
+    cursor: text;
+}
+
+.anker-tag {
+    width: 40px;
+    height: 40px;
+    background-color: #ff1717;
+    border-radius: 50%;
+
+
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-end;
+
+
+    text-decoration: none;
+    overflow: hidden;
+
+
+
+}
+
+.anker-tag i {
+    color: white;
+    font-size: 20px;
+
+
+
+    transform: translatey(-10px);
+}
+
+.download-buttons {
+    display: flex;
+
+
+}
+
+.download-buttons img {
+    height: 45px;
+    margin: 12px 0;
+    transition: transform 0.2s;
+}
+
+.copy-write p {
+    color: #fff;
+}
+
+.footer-p-color {
+    color: #fff;
+}
+
+.anker-tag1 {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+
+.btn-6 {
+    background-color: black;
+    color: #fff;
+    border: 1px solid #656565;
+    padding: 11px 12px;
+}
+
+.circle-1 {
+    color: #ED1C24;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: inline-flex;
+    justify-content: center;
+
+}
+
+.heading4 {
+    color: #fff;
+}

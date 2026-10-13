@@ -1,0 +1,274 @@
+.button-1 {
+    background-color: #000;
+    color: #fff;
+    padding: 11px 10px;
+    border: 1px solid #fff;
+}
+
+.button-2 {
+    padding: 12px 13px;
+    background-color: #ED1C24;
+    border: none;
+    color: #fff
+}
+
+.circle {
+    color: #ED1C24;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: inline-flex;
+    justify-content: center;
+
+}
+
+.nav-item1 .nav-link1 {
+    color: #000;
+    text-decoration: none;
+}
+
+.feature-txt h3 {
+    color: #fff;
+}
+
+.feature-txt p {
+    color: #6C757D;
+    font-size: 20px;
+}
+
+.feature-txt .heading1 {
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+/* .feature-resturant {
+    /* background-color: #fff;
+    background-image: url("/img/8a66dd76-03d2-4b71-8d03-cf045f0248a7.webp");
+    background-repeat: no-repeat; }*/
+
+.image-resturant img {
+    width: 100%;
+    height: 80px;
+    object-fit: contain;
+}
+
+.button-3 {
+    background-color: #000;
+    color: #fff;
+    padding: 13px 24px;
+    border: 1px solid #656565;
+}
+
+.button-4 {
+    background-color: #000;
+    color: #fff;
+    padding: 13px 30px;
+    border: 1px solid #656565;
+}
+
+.feature-txt .heading4 {
+    font-size: 38px;
+    margin-right: 20px;
+}
+
+.resturant-1-txt h5 {
+    color: #ff3940;
+    letter-spacing: 10px;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.resturant-1-txt h3 {
+    color: #fff;
+}
+
+.resturant-1-txt p {
+    color: #6b6f72;
+}
+
+.btn-6 {
+    background-color: black;
+    color: #fff;
+    border: 1px solid #656565;
+    padding: 11px 12px;
+}
+
+.circle-1 {
+    color: #ED1C24;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: inline-flex;
+    justify-content: center;
+
+}
+
+.heading-word {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.resturant-1-txt .paragraph-hunter1 {
+    font-size: 14px;
+
+}
+
+/* .resturant-img-1 img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px 8px 0 0;
+} */
+
+/* .resturant-img-1 {
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.resturant-img-1 img {
+    width: 100%;
+    height: auto;
+    display: block;
+} */
+.btn-7 {
+    background-color: #28a745;
+    color: #fff;
+    border: 1px solid #28a745;
+    padding: 11px 12px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.btn-7:hover {
+    background-color: #000;
+    border: 1px solid #28a745;
+}
+
+.circle-2 {
+    color: #28a745;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: inline-flex;
+    justify-content: center;
+
+}
+
+.feature-txt span {
+    font-size: 25px;
+}
+
+.text-erc h5 {
+    color: #ff3940;
+    letter-spacing: 6px;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.text-erc h3 {
+    font-weight: bolder;
+    font-size: 23px;
+}
+
+.text-erc span {
+    font-weight: 500;
+}
+
+.text-erc .lower-text {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.text-content p {
+    color: #6C757D;
+}
+
+.text-content h5 {
+    color: #6C757D;
+    font-size: 18px;
+
+}
+
+.menu-items a {
+    text-decoration: none;
+    color: #6C757D;
+    line-height: 35px;
+
+}
+
+.footer-menu h5 {
+    font-size: 20px;
+    color: #fff;
+}
+
+.footer-menu p {
+    color: #6C757D;
+}
+
+.contact-heading {
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.nav-links1 {
+    cursor: text;
+}
+
+.anker-tag {
+    width: 40px;
+    height: 40px;
+    background-color: #ff1717;
+    border-radius: 50%;
+
+
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-end;
+
+
+    text-decoration: none;
+    overflow: hidden;
+
+
+
+}
+
+.anker-tag i {
+    color: white;
+    font-size: 20px;
+
+
+
+    transform: translatey(-10px);
+}
+
+.download-buttons {
+    display: flex;
+
+
+}
+
+.download-buttons img {
+    height: 45px;
+    margin: 12px 0;
+    transition: transform 0.2s;
+}
+
+.copy-write p {
+    color: #fff;
+}
+
+.footer-p-color {
+    color: #fff;
+}
+
+.anker-tag1 {
+    text-decoration: none;
+    color: #fff;
+}
